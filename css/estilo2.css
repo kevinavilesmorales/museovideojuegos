@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 5px;
+}
+body{
+	margin: 50px;
+	background:url("wallpapers/4533347.png");
+	background-size: 100%;
+	color:white;
+}
+#contenedor1{
+	height: 800px;
+	width:1700px;
+	background: #000000;
+	border-radius: 20px;
+	font-size: 20pt;
+	text-align: center;
+	margin: 20px;
+}
+header{
+	height: 200;
+	background: #300451;
+	text-align: center;
+	border-radius: 20px;
+	text-transform: uppercase;
+	margin: 20px;
+}
+section{
+	height: 550px;
+	background: #300451;
+	text-align: center;
+	border-radius: 20px;
+	margin: 20px;
+}
+t{
+	font-size: 28px;
+	
+}
